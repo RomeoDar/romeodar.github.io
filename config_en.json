@@ -6,13 +6,7 @@
       "showMenu": true,
       "showSearch": false
     },
-    {
-      "layout" : "header_text",
-      "padding": 20.0,
-      "fontSize": 30.0,
-      "isSafeArea": false,
-      "title" : "Explore daily news within a tap"
-    },
+
 
     {
       "layout": "bannerImage",
@@ -71,20 +65,6 @@
     {
       "layout": "home",
       "icon": "assets/icons/tabs/icon-home.png"
-    },
-    {
-      "layout": "category",
-      "categoryLayout": "sideMenu",
-      "icon": "assets/icons/tabs/icon-category.png",
-      "showSearch": false
-    },
-    {
-      "layout": "search",
-      "icon": "assets/icons/tabs/icon-search.png"
-    },
-    {
-      "layout": "wishlist",
-      "icon": "assets/icons/tabs/icon-heartthin.png"
     },
     {
       "layout": "profile",
