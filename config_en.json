@@ -4,43 +4,11 @@
       "layout": "logo",
       "showLogo": true,
       "showMenu": true,
-      "showSearch": false
+      "showSearch": true
     },
 
 
-    {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-
-      "items": [
-        {
-          "blog_category": 134,
-          "image": "https://therealchelseafans.com/wp-content/uploads/2022/08/Everton-vs-Chelsea-.jpg",
-          "padding": 15.0
-
-        },
-        {
-          "blog_category": 3,
-          "image": "https://therealchelseafans.com/wp-content/uploads/2022/08/Marc-Cucurella-1-1.jpg",
-          "padding": 15.0
-        },
-        {
-          "blog_category": 2,
-          "image": "https://therealchelseafans.com/wp-content/uploads/2022/08/Marc-Cucurella-Azpilicueta-players.jpg",
-          "padding": 15.0
-        }
-      ]
-    },
-
-    {
-      "layout" : "largeCardHorizontalListItems",
-      "imageBorder": 20,
-      "category": 134,
-      "name": "Match Reviews"
-    },
+    
     {
       "layout" : "sliderList",
       "type" :"",
@@ -54,17 +22,38 @@
       "name": "Transfer",
       "category": 3,
       "imageBorder": 20
+    },
+    {
+      "layout" : "sliderList",
+      "type" :"",
+      "name": "Match Reviews",
+      "category": 134
     }
+    
 
   ],
   "Setting": {
-    "MainColor": "#3FC1BE",
+    "MainColor": "#142699",
     "ProductListLayout": "list"
   },
-  "TabBar": [
+ "TabBar": [
     {
       "layout": "home",
       "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "showSearch": false
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+       {
+      "layout": "wishlist",
+      "icon": "assets/icons/tabs/icon-heartthin.png"
     },
     {
       "layout": "profile",
