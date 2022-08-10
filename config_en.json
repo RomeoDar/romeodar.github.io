@@ -43,7 +43,7 @@
     },
     {
       "layout": "category",
-      "categoryLayout": "card",
+      "categoryLayout": "sideMenu",
       "icon": "assets/icons/tabs/icon-category.png",
       "showSearch": false
     },
