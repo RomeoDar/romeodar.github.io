@@ -41,7 +41,7 @@
          {
            "category":"1424",
            "showText":true,
-           "name":"Campinggg",
+           "name":"Camping",
            "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/Tent.png"
          },
          {
@@ -73,6 +73,42 @@
            "showText":true,
            "name":"Yacht",
            "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/Yacht.png"
+         },
+          {
+           "category":"1517",
+           "showText":true,
+           "name":"Water Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/6578308_beach_holiday_ocean_sea_sky_icon-1.png"
+         },
+          {
+           "category":"1519",
+           "showText":true,
+           "name":"Sky Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/1372384_airplane_flight_travel_vacation_icon.png"
+         },
+          {
+           "category":"1521",
+           "showText":true,
+           "name":"Land Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/3512614_beach_chair_summer_sunny_travel_icon.png"
+         },
+          {
+           "category":"1518",
+           "showText":true,
+           "name":"Desert Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/808491_bonefire_camp_camping_forest_nature_icon.png"
+         },
+          {
+           "category":"1516",
+           "showText":true,
+           "name":"City Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/5856548_building_buildings_cities_city_construction_icon-1.png"
+         },
+          {
+           "category":"1520",
+           "showText":true,
+           "name":"Combination Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/3383446_airport_departure_luggage_passenger_tourist_icon.png"
          },
          {
            "category":"1440",
