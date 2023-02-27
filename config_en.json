@@ -39,82 +39,34 @@
        "radius": 2.0,
        "items":[
          {
-           "category":"1424",
-           "showText":true,
-           "name":"Camping",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/Tent.png"
-         },
-         {
-           "category":"1485",
-           "showText":true,
-           "name":"Escape House",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/escape-house-42.png"
-         },
-         {
-           "category":"1439",
-           "showText":true,
-           "name":"Events",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/Events.png"
-         },
-         {
-           "category":"1442",
-           "showText":true,
-           "name":"Fitness",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/weight.png"
-         },
-         {
-           "category":"1434",
-           "showText":true,
-           "name":"Water Sports",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/Watersports.png"
-         },
-         {
-           "category":"1438",
-           "showText":true,
-           "name":"Yacht",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/Yacht.png"
-         },
-          {
-           "category":"1517",
-           "showText":true,
-           "name":"Water Activity",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/6578308_beach_holiday_ocean_sea_sky_icon-1.png"
-         },
-          {
-           "category":"1519",
-           "showText":true,
-           "name":"Sky Activity",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/9151158_parachute_fly_army_paraglide_glider_icon.png"
-         },
-          {
-           "category":"1521",
-           "showText":true,
-           "name":"Land Activity",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/3512614_beach_chair_summer_sunny_travel_icon.png"
-         },
-          {
-           "category":"1518",
-           "showText":true,
-           "name":"Desert Activity",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/7648540_camel_desert_animal_mammal_icon.png"
-         },
-          {
            "category":"1516",
            "showText":true,
            "name":"City Activity",
            "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/5856548_building_buildings_cities_city_construction_icon-1.png"
          },
-          {
+         {
            "category":"1520",
            "showText":true,
-           "name":"Combination Activity",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/3383446_airport_departure_luggage_passenger_tourist_icon.png"
+           "name":"Combination Activities",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/3383446_airport_departure_luggage_passenger_tourist_icon-medium.png"
          },
          {
-           "category":"1440",
+           "category":"1518",
            "showText":true,
-           "name":"Other",
-           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/08/dots.png"
+           "name":"Desert Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/7648540_camel_desert_animal_mammal_icon-medium.png"
+         },
+         {
+           "category":"1519",
+           "showText":true,
+           "name":"Sky Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/9151158_parachute_fly_army_paraglide_glider_icon-medium.png"
+         },
+         {
+           "category":"1517",
+           "showText":true,
+           "name":"Water Activity",
+           "image":"https://www.bluecamel.qa/wp-content/uploads/2022/12/3512614_beach_chair_summer_sunny_travel_icon-medium.png"
          }
        ],
        "line":false,
